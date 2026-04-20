@@ -4,7 +4,7 @@ A modern responsive website project built as a hands-on practice for mastering *
 
 ## 🚀 Live Demo
 
-👉 [https://mustafakullab.github.io/Responsive-Web-Layouts-Study/](https://mustafakullab.github.io/Responsive-Web-Layouts-Study/)
+👉 https://responsive-web-showcase.vercel.app/
 
 ---
 
