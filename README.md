@@ -1,7 +1,7 @@
 A modern responsive website project built as a hands-on practice for mastering **responsive design techniques** using HTML and CSS.
 
 ---
-##📸 Preview
+## 📸 Preview
 
 <img width="1894" height="715" alt="image" src="https://github.com/user-attachments/assets/f5363b1d-0154-4ff7-8a5c-3f7421493591" /># 🌐 Responsive Web Showcase
 
